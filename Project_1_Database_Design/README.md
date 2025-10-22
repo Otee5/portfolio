@@ -42,7 +42,6 @@ Run customer_queries.sql to insert data and perform queries.
 
 Verify the output in Oracle 19c by checking the results (refer to the screenshot below).
 
-Screenshots
 
 ## 📸 Oracle 19c Output Screenshot
 
