@@ -1,16 +1,17 @@
-Project 1 – Customer Database Management
-Objective
+## Project 1 – Customer Database Management
+
+## Objective
 
 The objective of this project is to demonstrate the creation, management, and querying of a CUSTOMER table using Oracle 19c.
 This project focuses on database design, SQL query execution, and verifying results.
 
-Tools
+## Tools
 
 Oracle SQL 19c – for database creation, management, and querying
 
 SQL Scripts – .sql files used to create tables and execute queries
 
-What I Built
+## What I Built
 
 Created a CUSTOMER table with the following columns:
 CUSTOMER_ID, COMPANY_NAME, CONTACT_NAME, ADDRESS, CITY, STATE, ZIP, PHONE
@@ -25,13 +26,13 @@ Retrieve data using SELECT statements
 
 Verified outputs in Oracle 19c to ensure the database was correctly set up and queries returned the expected results.
 
-Files
+## Files
 File Name	Description
 customer_table_creation.sql	SQL script to create the CUSTOMER table
 customer_queries.sql	SQL scripts for inserting, updating, and querying data
 oracle_dark_theme_pc_output_blinking_cursor.png	Screenshot of the SQL query output in Oracle 19c
 
-How to Run
+## How to Run
 
 Open Oracle SQL Developer or SQL*Plus.
 
